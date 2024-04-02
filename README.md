@@ -1,5 +1,4 @@
-(![Purple and White Modern Computer Class Google Classroom Header](https://github.com/CXmiloxx/Cxmiloxx/assets/137653825/a762cb15-b832-4fee-88ae-7fa6a288afa8)
-)
+![Purple and White Modern Computer Class Google Classroom Header](https://github.com/CXmiloxx/Cxmiloxx/assets/137653825/a762cb15-b832-4fee-88ae-7fa6a288afa8)
     
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
