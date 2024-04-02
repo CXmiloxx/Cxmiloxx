@@ -1,11 +1,11 @@
-
-![Web-developer](https://user-images.githubusercontent.com/46484569/88458558-8c31eb80-ceac-11ea-8058-a555f9e1b660.png)
+(![Purple and White Modern Computer Class Google Classroom Header](https://github.com/CXmiloxx/Cxmiloxx/assets/137653825/a762cb15-b832-4fee-88ae-7fa6a288afa8)
+)
     
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-### Hello! I'm Brijesh Dhanani a Full Stack Developer from India.
+### Hello! I'm Camilo Guapacha a software analyst and developer from Colombia.
 
-### Portfolio: https://brdhanani.github.io
+### Portfolio: https://github.com/CXmiloxx
 
 <a href="https://twitter.com/dhanani_brijesh">
   <img align="left" alt="Brijesh Dhanani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
