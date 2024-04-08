@@ -12,8 +12,8 @@
 <a href="https://www.linkedin.com/in/brijesh-dhanani-8a2061141">
   <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.facebook.com/people/Brijesh-Dhanani/100010798357963">
-  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="https://www.facebook.com/guxpacha?mibextid=ibOpuV">
+  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://www.bing.com/images/search?view=detailV2&ccid=QqTYsxjn&id=4ECA2952E727588FC836EFF67958AE4E3B25C27A&thid=OIP.QqTYsxjnv4_257JFzrcwlAHaHa&mediaurl=https%3a%2f%2fstatic.vecteezy.com%2fsystem%2fresources%2fpreviews%2f018%2f930%2f476%2fnon_2x%2ffacebook-logo-facebook-icon-transparent-free-png.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.42a4d8b318e7bf8ff6e7b245ceb73094%3frik%3desIlO06uWHn27w%26pid%3dImgRaw%26r%3d0&exph=980&expw=980&q=iconos+de+facebook+svg&simid=608018128291580225&FORM=IRPRST&ck=4DD451EDF3A7C58846949920097B04BC&selectedIndex=0&itb=1&idpp=overlayview&ajaxhist=0&ajaxserp=0" />
 </a>
 <a href="https://www.instagram.com/singer_brijesh_dhanani">
   <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
