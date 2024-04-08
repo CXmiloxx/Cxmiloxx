@@ -35,9 +35,9 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java&link=https://github.com/CXmiloxx)](https://github.com/CXmiloxx) 
-[![Dart](https://img.shields.io/badge/-Dart-blue?style=flat&logo=dart&link=https://github.com/CXmiloxx)](https://github.com/CXmiloxx) 
-[![C](https://img.shields.io/badge/-C-black?style=flat&logo=c&link=https://github.com/CXmiloxx)](https://github.com/CXmiloxx)
+[![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/CXmiloxx)](https://github.com/CXmiloxx) 
+[![Dart](https://img.shields.io/badge/-Dart-blue?style=flat&logo=dart&logoColor=white&link=https://github.com/CXmiloxx)](https://github.com/CXmiloxx) 
+[![C](https://img.shields.io/badge/-C-black?style=flat&logo=c&logoColor=white&link=https://github.com/CXmiloxx)](https://github.com/CXmiloxx)
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
