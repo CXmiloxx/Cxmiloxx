@@ -10,7 +10,7 @@ I specialize in creating innovative solutions using cutting-edge technologies.
 
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilo-guapacha-a6732b270/){:target="_blank"}  
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/guxpacha?mibextid=ibOpuV){:target="_blank"}  
+[{:target="_blank"}![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/guxpacha?mibextid=ibOpuV)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/guxpacha/){:target="_blank"}  
 
 ---
