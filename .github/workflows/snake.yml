@@ -2,11 +2,14 @@ name: Generate Snake Animation 🐍
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: '0 0 * * *'
   push:
     branches:
-      - main
+      - master
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   generate:
@@ -27,5 +30,5 @@ jobs:
         with:
           author_name: github-actions
           author_email: github-actions@github.com
-          message: "Generar animación de Snake 🐍"
-          add: "output/snake.svg"
+          message: 'Generar animación de Snake 🐍'
+          add: 'output/snake.svg'
