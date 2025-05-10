@@ -1,0 +1,31 @@
+name: Generate Snake Animation 🐍
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repositorio
+        uses: actions/checkout@v3
+
+      - name: Generar animación de la serpiente
+        uses: Platane/snk@v3
+        with:
+          github_user_name: CXmiloxx
+          outputs: |
+            ./output/snake.svg
+
+      - name: Subir snake.svg al repositorio
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions
+          author_email: github-actions@github.com
+          message: "Generar animación de Snake 🐍"
+          add: "output/snake.svg"
