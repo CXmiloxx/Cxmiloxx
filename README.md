@@ -15,10 +15,6 @@ Feel free to explore my projects and experience through my online portfolio:
 
 ###
 
-<img align="left" height="170" src="https://scontent.fpei4-1.fna.fbcdn.net/v/t39.30808-6/490590031_1886924802061770_1921357751903676729_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=111&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeFZ1L8aRZhED7zGfKi1mg_EJ19Hbr0kgBsnX0duvSSAGxqKirVWGMqxIZwvH9RjVhGjCZAH-1w5Oex-KxDMetAq&_nc_ohc=1TdDb6Tboy8Q7kNvwEz2J6M&_nc_oc=Adk2wVndXn-vQ-TgiTZkn1LpaF21as1CEEA4caX9RXE57B2HvbLibiv9wh79_nJ3bM0&_nc_zt=23&_nc_ht=scontent.fpei4-1.fna&_nc_gid=gQhrLBplrL_T_hfrlC8zLA&oh=00_AfLZwYr6oTONpStT3pZSlOtFgRRA0nHD7LYVimfcYPcZcw&oe=68252009"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
