@@ -1,87 +1,69 @@
-<h1 align="center">Camilo Guapacha</h1>
-<p align="center">
-  <strong>Full Stack Developer · DevOps / Infraestructura</strong><br>
-  Construyo la aplicación y la infraestructura que la sostiene.
-</p>
+# Camilo Guapacha
 
-<p align="center">
-  <a href="https://portafolio-v3-delta.vercel.app">
-    <img src="https://img.shields.io/badge/Ver_mi_portafolio-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/camilo-guapacha-a6732b270/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:juancamilog9911@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+**Full Stack Developer · DevOps / Infraestructura**
+Construyo la aplicación y la infraestructura que la sostiene.
+
+[Portafolio](https://portafolio-v3-delta.vercel.app) ·
+[LinkedIn](https://www.linkedin.com/in/camilo-guapacha-a6732b270/) ·
+[Correo](mailto:juancamilog9911@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=CXmiloxx&label=Visitas&color=2563eb&style=flat" alt="Visitas al perfil" />
 
 ---
 
-## 👨‍💻 Sobre mí
+## Perfil
 
-Desarrollador **Full Stack** enfocado en construir productos completos: desde la
-interfaz hasta el servidor que los sirve. No solo escribo la aplicación, también
-levanto y administro la infraestructura donde corre.
+Desarrollador Full Stack que construye productos completos, de la interfaz al
+servidor que los sirve. No solo escribo la aplicación: también levanto y
+administro la infraestructura donde corre.
 
-- 🧩 Construyo sistemas **SAAS** de extremo a extremo: frontend, backend, base de datos e infraestructura.
-- ⚙️ Opero la infra real: **Proxmox**, servidores **Ubuntu**, **Docker**, **SSL** con Certbot y **DNS** en Cloudflare.
-- 🤖 Integro **agentes de IA** y automatización dentro de productos reales.
-- 🎓 Tecnólogo en Análisis y Desarrollo de Software (**SENA**) · Próximamente Ingeniería de Sistemas y Computación (**UTP**).
-- 🌎 Pereira, Risaralda — Colombia.
+Trabajo a diario con TypeScript en todo el stack, llevo sistemas SAAS a
+producción de extremo a extremo y opero la infraestructura real que los
+sostiene. Tecnólogo en Análisis y Desarrollo de Software (SENA); inicio
+Ingeniería de Sistemas y Computación en la UTP en agosto de 2026.
 
-## 🛠️ Stack
+## Tecnologías
 
-**Frontend**
+| Área | Stack |
+| --- | --- |
+| **Frontend** | Next.js, React, TypeScript, Tailwind CSS, shadcn/ui |
+| **Backend** | Node.js, NestJS, Express, Prisma, MySQL |
+| **DevOps / Infraestructura** | Docker, Proxmox, Ubuntu Server, Certbot / SSL, Cloudflare, Git |
+| **IA** | Integración de agentes de IA y automatización |
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="34" alt="Next.js" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="34" alt="React" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="34" alt="TypeScript" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="34" alt="Tailwind CSS" />
-</p>
+## Experiencia actual
 
-**Backend**
+Como desarrollador de planta en una empresa de software del sector financiero,
+construyo plataformas SAAS en producción: gestión de RR. HH. multiempresa,
+procesos judiciales, gestión presupuestal e integraciones de seguridad social,
+además de la integración de agentes de IA dentro de los productos.
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="34" alt="Node.js" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="34" alt="NestJS" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="34" alt="Express" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="34" alt="Prisma" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="34" alt="MySQL" />
-</p>
+El detalle técnico de cada proyecto está en el
+**[portafolio](https://portafolio-v3-delta.vercel.app)**.
 
-**DevOps / Infraestructura**
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="34" alt="Docker" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="34" alt="Linux" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="34" alt="Ubuntu" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="34" alt="Cloudflare" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="34" alt="Git" />
-</p>
-
-## 🔭 En qué trabajo
-
-Como desarrollador de planta en una empresa de software, construyo plataformas
-SAAS reales en producción: gestión de RR. HH. multiempresa, procesos judiciales,
-gestión presupuestal e integraciones de seguridad social, además de la
-integración de agentes de IA dentro de los productos.
-
-> 🚀 Los proyectos y su detalle técnico están en mi
-> **[portafolio](https://portafolio-v3-delta.vercel.app)**.
-
-## 📊 GitHub
+## Actividad en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CXmiloxx&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="160" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CXmiloxx&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="160" alt="Lenguajes más usados" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CXmiloxx&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" alt="Estadísticas de GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=CXmiloxx&layout=compact&langs_count=6&theme=dracula&hide_border=true" alt="Lenguajes más usados" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=CXmiloxx&theme=dracula&hide_border=true" height="160" alt="Racha de contribuciones" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=CXmiloxx&theme=dracula&hide_border=true" alt="Racha de contribuciones" />
 </div>
 
----
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CXmiloxx&theme=react-dark&hide_border=true&area=true&custom_title=Contribuciones%20en%20el%20tiempo" alt="Gráfico de actividad" />
+</div>
 
-<img src="./output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CXmiloxx&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trofeos de GitHub" />
+</div>
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-season-animate.svg" alt="Calendario 3D de contribuciones" />
+</div>
+
+<div align="center">
+  <img src="./output/snake.svg" alt="Animación de contribuciones" />
+</div>
