@@ -57,10 +57,6 @@ El detalle técnico de cada proyecto está en el
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CXmiloxx&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trofeos de GitHub" />
-</div>
-
-<div align="center">
   <img src="./profile-3d-contrib/profile-season-animate.svg" alt="Calendario 3D de contribuciones" />
 </div>
 
