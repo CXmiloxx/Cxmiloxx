@@ -76,7 +76,7 @@ const camilo = {
 |---|---|---|:---:|
 | **Mi Cupo Ya** | Venta de celulares a crédito por WhatsApp y web: consulta a la persona, calcula el cupo, arma el plan y el crédito se aprueba solo. | 8 servicios NestJS · CONSULTAR · Payvalida · webhooks HMAC · Docker | ✅ Terminado |
 | **Plataforma de créditos** | Créditos con aliados comerciales: perfila con CONSULTAR, revisa DataCrédito, aprueba, cobra y reporta la cartera a la central. | 13 servicios NestJS · Experian HDC+ · BullMQ · hexagonal | 🟢 En producción |
-| **INSYTE** | Un número de documento y la empresa recibe en una sola ficha los datos de salud, subsidios y aportes de una persona. | NestJS · worker BullMQ + Redis · Next.js | 🟢 En producción |
+| **INSYTE** | Con los datos básicos de una persona, la busca en todas las entidades públicas que se pueden consultar para ayudar a localizarla, y entrega todo en una sola ficha. | NestJS · 39 fuentes · worker BullMQ + Redis · Next.js | 🟢 En producción |
 | **Gestión Social** | Recursos humanos para varias empresas a la vez, cada una con su información aislada. | Multi-tenant · NestJS · Next.js | 🟢 En producción |
 | **Procesos judiciales** | Revisa a diario la Rama Judicial y deja cada expediente al día con sus documentos. | Express · scrapers programados · Next.js | 🟢 En producción |
 
