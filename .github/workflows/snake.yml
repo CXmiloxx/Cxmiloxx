@@ -34,3 +34,4 @@ jobs:
           author_email: github-actions@github.com
           message: 'Generar animación de Snake 🐍'
           add: 'output/*.svg'
+          pull: '--rebase --autostash'
